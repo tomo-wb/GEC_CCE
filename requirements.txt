@@ -1,4 +1,5 @@
 ###### Requirements ######
 beautifulsoup4
+lxml
 nltk == 2.0b7
 
