@@ -1,0 +1,4 @@
+###### Requirements ######
+beautifulsoup4
+nltk == 2.0b7
+
