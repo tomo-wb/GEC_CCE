@@ -34,20 +34,15 @@ python2 kj_to_m2.py -in kj_all.raw -out output_file
 ### Preprocessing Scripts for the Other Corpora
 For the other corpora we used such as CoNLL-2014, 2013 and JFELG, you can use the following official preprocessing scripts.
 
-* CoNLL 2014
-  * http://www.comp.nus.edu.sg/~nlp/conll14st.html
+* [CoNLL 2014](http://www.comp.nus.edu.sg/~nlp/conll14st.html)
 
-* CoNLL 2013
-  * http://www.comp.nus.edu.sg/~nlp/conll13st.html
+* [CoNLL 2013](http://www.comp.nus.edu.sg/~nlp/conll13st.html)
 
-* JFLEG
-    * https://github.com/keisks/jfleg
+* [JFLEG](https://github.com/keisks/jfleg)
 
 ## Evaluation 
 
 You can evaluate your systems using the following scorers (M2socorer and GLUE).
 
-* M2scorer
-    * https://github.com/nusnlp/m2scorer
-* GLEU
-    * https://github.com/cnap/gec-ranking
+* [M2scorer](https://github.com/nusnlp/m2scorer)
+* [GLEU](https://github.com/cnap/gec-ranking)
