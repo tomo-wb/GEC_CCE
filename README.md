@@ -42,7 +42,7 @@ For the other corpora we used such as CoNLL-2014, 2013 and JFELG, you can use th
 
 ## Evaluation 
 
-You can evaluate your systems using the following scorers (M2socorer and GLUE).
+You can evaluate your systems using the following scorers (m2scorer and GLEU).
 
 * [M2scorer](https://github.com/nusnlp/m2scorer)
 * [GLEU](https://github.com/cnap/gec-ranking)
